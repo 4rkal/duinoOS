@@ -1,10 +1,11 @@
 # duinoOS
 # About
-Debian based system back os. Pretty lightweight comes with lxqt desktop env 
-Comes with duino coin miner pre installed
-just type mine-install to install the mining software. mine-update to update and mine to start mining.
-Also comes with Ducopanel pre installed.
-Server version comes just with the mining software installed
+Debian based system back os. Pretty lightweight comes with lxqt desktop env. Only comes with software that can be used for mining etc. NOT daily driving
+Pre installed software:
+1. Duino miner( type mine-install to install, mine-update to update and mine to start mining)
+2. Ducopanel
+3. Basic system utilities
+4. Adding more...
 
 # Instalation
 Download the iso for your architecture and install it
